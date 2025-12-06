@@ -36,10 +36,12 @@ Random Forest clearly outperformed all linear approaches.
 
 ## 📁 Project Structure
 ```
-├── data/                     # Raw or cleaned data (not included in repo)
-├── notebooks/                # Jupyter notebook with full analysis
+├── data/                     # Raw or cleaned dataset (CSV not included in repo)
+├── notebooks/                # Jupyter notebook containing full CRISP-DM workflow
+├── plots/                    # All generated visualizations (PNG files)
 ├── README.md                 # Project documentation
 └── requirements.txt          # Dependencies
+
 ```
 
 ## 🔧 Installation
